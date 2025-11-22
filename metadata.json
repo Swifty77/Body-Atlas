@@ -1,0 +1,5 @@
+{
+  "name": "Holistic Health AI",
+  "description": "A comprehensive health dashboard that aggregates lab results, wearables, and gene data, utilizing Gemini AI for structured parsing and holistic health advice.",
+  "requestFramePermissions": []
+}
